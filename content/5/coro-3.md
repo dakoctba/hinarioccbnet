@@ -1,5 +1,5 @@
 ---
-numero: 3
+numero: "Coro 3"
 titulo: Ação de graças darei
 ---
 Ação de graças darei a Jesus, meu Pastor, meu Rei;

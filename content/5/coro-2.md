@@ -1,5 +1,5 @@
 ---
-numero: 2
+numero: "Coro 2"
 titulo: Toda a glória a Jesus
 ---
 Toda a glória a Jesus! Toda a honra a Jesus!

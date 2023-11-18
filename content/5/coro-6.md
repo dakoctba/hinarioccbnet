@@ -1,5 +1,5 @@
 ---
-numero: 6
+numero: "Coro 6"
 titulo: A Jesus eu cantarei louvor
 ---
 A Jesus eu cantarei louvor;

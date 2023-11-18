@@ -1,5 +1,5 @@
 ---
-numero: 4
+numero: "Coro 4"
 titulo: Glória, glória nas alturas!
 ---
 Glória, glória nas alturas!

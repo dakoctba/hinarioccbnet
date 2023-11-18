@@ -1,5 +1,5 @@
 ---
-numero: 1
+numero: "Coro 1"
 titulo: Aleluia! Aleluia!
 ---
 Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
