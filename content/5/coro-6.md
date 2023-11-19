@@ -1,6 +1,6 @@
 ---
 numero: "Coro 6"
-titulo: A Jesus eu cantarei louvor
+title: A Jesus eu cantarei louvor
 ---
 A Jesus eu cantarei louvor;
 Honra e glória sempre Lhe darei;

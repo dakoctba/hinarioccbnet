@@ -1,0 +1,10 @@
+{{ define "main" -}}
+  <h1 class="title mb-5">{{ .Params.numero }} - {{ .Title }}</h1>
+
+  {{ .Content }}
+
+  <div class="mt-5">
+    <a href="{{ .Site.BaseURL }}/" class="btn btn-primary">Voltar</a>
+  </div>
+{{- end }}
+

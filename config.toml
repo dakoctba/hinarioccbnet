@@ -1,0 +1,19 @@
+baseURL = "http://hinarioccb.net"
+languageCode = "pt-br"
+title = "HinárioCCB.net"
+
+DefaultContentLanguage = "pt-br"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+ignoreErrors = ["error-remote-getjson"]
+
+[blackfriday]
+extensions = [
+  "hardLineBreak",
+  "laxHtmlBlocks"
+]
+
+[markup.goldmark.renderer]
+hardWraps = true

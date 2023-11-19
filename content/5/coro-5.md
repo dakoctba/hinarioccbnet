@@ -1,6 +1,6 @@
 ---
 numero: "Coro 5"
-titulo: Majestoso é Cristo Jesus!
+title: Majestoso é Cristo Jesus!
 ---
 Majestoso é Cristo Jesus, o Senhor,
 Majestoso é Cristo Jesus!

@@ -1,6 +1,6 @@
 ---
 numero: "Coro 4"
-titulo: Glória, glória nas alturas!
+title: Glória, glória nas alturas!
 ---
 Glória, glória nas alturas!
 Glória, glória ao nosso Deus!

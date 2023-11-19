@@ -3,13 +3,13 @@
   {{ $posts := where .Site.Pages "Section" "5" }}
   {{ $sortedPosts := sort $posts ".Params.numero" "asc" }}
 
-  <h1>Hinário 5 - teste</h1>
+  <h1>Hinário 5</h1>
 
   <ul class="nav flex-column">
   {{ range $sortedPosts }}
     {{ if (isset .Params "numero") }}
       <li class="nav-item">
-        <a class="nav-link" href="{{ .Permalink }}">{{ .Params.numero }} - {{ .Params.titulo }}</a>
+        <a class="nav-link" href="{{ .Permalink }}">{{ .Params.numero }} - {{ .Title }}</a>
       </li>
     {{ end }}
   {{ end }}

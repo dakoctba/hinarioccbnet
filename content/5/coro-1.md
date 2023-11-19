@@ -1,6 +1,6 @@
 ---
 numero: "Coro 1"
-titulo: Aleluia! Aleluia!
+title: Aleluia! Aleluia!
 ---
 Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
 Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
